@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog! 
-
+title: o my blog! 
 ---
 spojopij;ll;lp
